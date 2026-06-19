@@ -1,16 +1,21 @@
-## Hi there 👋
+# Xiangjie Zhao, PhD
 
-<!--
-**CadenZhao/CadenZhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Postdoctoral researcher at UNC Chapel Hill.
 
-Here are some ideas to get you started:
+I develop perturbation-enabled single-cell and spatial multi-omics technologies to study cardiovascular development and disease.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research
+
+- **Perturbation Omics Technologies** — Perturb-seq, Perturb-multiome, and Perturb-spatial
+- **Cardiovascular Functional Genomics** — Cardiac maturation, heart failure, and regeneration
+- **AI-enabled Biology** — Perturbation prediction and computational frameworks
+
+## Selected Resources
+
+- [HOHC — Human Organ Hormonal Communication](https://github.com/CadenZhao/HOHC)
+- [Personal academic website](https://cadenzhao.github.io)
+
+## Contact
+
+- Email: [xiangjie@unc.edu](mailto:xiangjie@unc.edu)
+- Website: [cadenzhao.github.io](https://cadenzhao.github.io)
