@@ -12,6 +12,7 @@ I develop perturbation-enabled single-cell and spatial multi-omics technologies 
 
 ## Selected Resources
 
+- [Cardiac Maturation snATAC Atlas](https://snatac-cardiac.pages.dev) — Interactive exploration of chromatin accessibility and regulatory dynamics across postnatal cardiac maturation.
 - [HOHC — Human Organ Hormonal Communication](https://github.com/CadenZhao/HOHC)
 - [Personal academic website](https://cadenzhao.github.io)
 
